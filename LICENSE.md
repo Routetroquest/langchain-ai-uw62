@@ -1,4 +1,4 @@
-# 
+# Nativo LangChain fluxo de trabalho. Com pronto para empresas e memória contextual — otimizado para máximo desempenho e eficiência.
 
 
 
